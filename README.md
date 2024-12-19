@@ -35,10 +35,10 @@
 <br>
 <br>
 
- 
-<p align="center">
-  <a href="https://github.com/cybersquadhqs/solutions/blob/6bbc12e47ad9ac2931997e37e16e13b179df56bc/LICENSE">
-    <img src="https://img.shields.io/badge/license-Creative%20Commons%20CC0%201.0%20Universal-blue.svg" alt="License: CC0 1.0 Universal" />
+
+ <p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">
+    <img src="https://img.shields.io/badge/license-Creative%20Commons%20BY--NC--SA%204.0-blue.svg" alt="License: CC BY-NC-SA 4.0" />
   </a>
 </p>
 
